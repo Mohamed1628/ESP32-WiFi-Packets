@@ -5,6 +5,10 @@ This program can be used to see TCP, UDP, ICMP, and other incoming packets to an
 This project is using PlatformIO with ESP IDF in Visual Studio Code. PlatformIO is just a extra set of tools on top of ESP IDF to make it easier to build a project.
 
 
-To add other communication protocols see this article and used the assigned number inside of the switch statement of get_protocol.
+# Future
+- To add other communication protocols see this article and used the assigned number inside of the switch statement of get_protocol.
 https://en.wikipedia.org/wiki/List_of_IP_protocol_numbers
+
+- Can also output port numbers for each packet by looking at the `ip4.h` file inside of the LwIP (lightweight internet protocol) library.
+  https://www.nongnu.org/lwip/2_0_x/ip4_8h.html
 
