@@ -1,9 +1,10 @@
 # ESP32 WiFi Packets
 This program can be used to see TCP, UDP, ICMP, and other incoming packets to an ESP32 board that is connected to a WiFi network. A different color LED is also turned on when different protocol packets are received (red for ICMP, green for TCP, Blue for UDP, and yellow for others).
+![terminal](https://github.com/Mohamed1628/ESP32-WiFi-Packets/assets/98979579/f452d41c-49d1-4ce3-bad5-0468cd0d631a)
+![esp32](https://github.com/Mohamed1628/ESP32-WiFi-Packets/assets/98979579/017948c3-cd33-46de-9356-b5997f6d9371)
 
 ## Project Structure
 This project is using PlatformIO with ESP IDF in Visual Studio Code. PlatformIO is just a extra set of tools on top of ESP IDF to make it easier to build a project.
-
 
 ## Future
 - To add other communication protocols see this article and used the assigned number inside of the switch statement of get_protocol.
