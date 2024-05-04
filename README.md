@@ -3,8 +3,8 @@ This program can be used to see TCP, UDP, ICMP, and other incoming packets to an
 
 <p align="center">
   <img width="200" height="300" src="https://github.com/Mohamed1628/ESP32-WiFi-Packets/assets/98979579/f452d41c-49d1-4ce3-bad5-0468cd0d631a">
+Terminal output for a ping request (4 ICMP Packets).
 </p>
-:Terminal output for a ping request (4 ICMP Packets).:
 
 ![esp32](https://github.com/Mohamed1628/ESP32-WiFi-Packets/assets/98979579/017948c3-cd33-46de-9356-b5997f6d9371)
 
