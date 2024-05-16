@@ -11,7 +11,7 @@ This program can be used to see TCP, UDP, ICMP, and other incoming packets to an
 ## Project Structure
 This project is using PlatformIO with ESP IDF in Visual Studio Code. PlatformIO is just a extra set of tools on top of ESP IDF to make it easier to build a project.
 
-`
+```
 ├───.pio
 ├───.vscode
 ├───build
@@ -29,7 +29,7 @@ This project is using PlatformIO with ESP IDF in Visual Studio Code. PlatformIO 
 │   platformio.ini
 │   sdkconfig
 │   sdkconfig.esp32dev
-`
+```
 ## Future
 - To add other communication protocols see this article and used the assigned number inside of the switch statement of get_protocol.
 https://en.wikipedia.org/wiki/List_of_IP_protocol_numbers
