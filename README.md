@@ -33,7 +33,7 @@ ESP32-WiFi-Packets
 ```
 
 <p align="center">
-  <img width="200" height="300" src="https://github.com/Mohamed1628/ESP32-WiFi-Packets/assets/98979579/9a94560f-ffd0-4317-8c33-8075d0f1301c"><br>
+  <img src="https://github.com/Mohamed1628/ESP32-WiFi-Packets/assets/98979579/9a94560f-ffd0-4317-8c33-8075d0f1301c"><br>
   Folder structure in VS Code.
 </p>
 
