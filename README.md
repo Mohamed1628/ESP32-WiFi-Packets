@@ -15,7 +15,6 @@ This project is using PlatformIO with ESP IDF in Visual Studio Code. PlatformIO 
 ESP32-WiFi-Packets
   ├───.pio
   ├───.vscode
-  ├───build
   ├───include
   │       lwip_hooks.h
   │       README
