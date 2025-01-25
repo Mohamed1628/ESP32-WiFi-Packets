@@ -38,9 +38,9 @@ ESP32-WiFi-Packets
 </p>
 
 ## Future
-- To add other communication protocols see this article and used the assigned number inside of the switch statement of get_protocol.
+- To add other communication protocols see this article and add the assigned number inside of the switch statement of get_protocol.
 https://en.wikipedia.org/wiki/List_of_IP_protocol_numbers
 
-- Can also output port numbers for each packet by looking at the `ip4.h` file inside of the LwIP (lightweight internet protocol) library.
+- You can also output port numbers for each packet by looking at the `ip4.h` file inside of the LwIP (lightweight internet protocol) library.
   https://www.nongnu.org/lwip/2_0_x/ip4_8h.html
 
